@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>网站介绍 on DEEP Team</title>
-    <link>https://deepteam2022.github.io/</link>
-    <description>Recent content in 网站介绍 on DEEP Team</description>
+    <title>courses on DEEP Team</title>
+    <link>https://deepteam2022.github.io/tags/courses/</link>
+    <description>Recent content in courses on DEEP Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://deepteam2022.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://deepteam2022.github.io/about/</link>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://deepteam2022.github.io/about/</guid>
-      <description>DEEP Team由几名初中生建立，立志于为中学生们给出更好的自学材料.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://deepteam2022.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SCI-110C 高中数学</title>
       <link>https://deepteam2022.github.io/sci-110c/</link>
